@@ -1,0 +1,83 @@
+[
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/baby/girl-babie-girl500x600.png",
+        "oferta": true
+    },
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/baby/girl-babyGirl-rabbit500x600.png",
+        "oferta": true
+    },
+
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/babygirl-babyGirl-tonge500x600.png",
+        "oferta": true
+    },
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/girl-dress(2)500x600.png",
+        "oferta": true
+    },
+
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/girl-joggin500x600.png",
+        "oferta": true
+    },
+
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/girl-winter500x600.png ",
+        "oferta": true
+    },
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/teen-pink-skirt500x600.png",
+        "oferta": true
+    },
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/teen-top500x600.png",
+        "oferta": true
+    }, 
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/teen-TShirt-square500x600.png",
+        "oferta": true
+    }, 
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/women-TShirt500x600.png",
+        "oferta": true
+    },
+    {
+        "precio": 5000,
+        "id": 1,
+        "title": "BARCELONA",
+        "thumbnailUrl": "../images/shop/products/women-yellowfancy-dress500x600.png",
+        "oferta": true
+    } 
+     
+]
